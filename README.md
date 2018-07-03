@@ -1,8 +1,7 @@
 
 # SampleJwtSimpleServerPCF
-The repository just wanted to demonstrate an issue with JWTSimpleServer whenever used within PCF, the issue was that PCF Apps Manager couldn't access to the actuators endpoints.
 
-After testing this sample locally I pushed it to PCF and it worked perfectly.
+This sample demonstrates how to use an Authentication mechanism and Swagger in an app that is going to be deployed in PCF. The repository just wanted to find out the source of an issue with JWTSimpleServer within PCF but the POC worked as expected and seems to be useful for other Dev Teams.
 
 This Sample includes:
 
